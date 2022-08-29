@@ -1,3 +1,7 @@
+package strategy;
+
+import strategy.*;
+
 public class Main {
     public static void main(String[] args) {
         Function1Behaviour function1BehaviourA = new Function1BehaviourA();

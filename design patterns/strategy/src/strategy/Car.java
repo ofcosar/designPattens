@@ -1,3 +1,5 @@
+package strategy;
+
 public class Car {
     Function2Behaviour function2Behaviour;
     Function1Behaviour function1Behaviour;
